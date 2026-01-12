@@ -66,17 +66,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smshiblyrahman&show_icons=true&locale=en&theme=radical" alt="smshiblyrahman" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smshiblyrahman&show_icons=true&locale=en&layout=compact&theme=radical" alt="smshiblyrahman" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smshiblyrahman&theme=radical" alt="smshiblyrahman" />
-</p>
+<div align="center">
 
----
-<p align="center">
-  <i>Let's connect and build intelligent, scalable systems together!</i>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smshiblyrahman&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smshiblyrahman&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smshiblyrahman&theme=radical)](https://git.io/streak-stats)
+
+</div>
