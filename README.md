@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm S M Shibly Rahman</h1>
 <h3 align="center">AI/ML Engineer | Building Production ML Systems & LLM-Powered Solutions</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=smshiblyrahman&label=Profile%20views&color=0e75b6&style=flat" alt="smshiblyrahman" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=smshiblyrahman&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="smshiblyrahman" />
-  </a>
-</p>
-
 ## 🚀 About Me
 
 AI/ML Engineer with 5+ years building production systems and 3+ years deploying ML models at scale. I specialize in building end-to-end ML pipelines, LLM integrations, and scalable inference systems that serve millions of predictions daily.
@@ -92,17 +82,6 @@ Developed RAG system with vector embeddings for semantic document retrieval. Bui
 ### 🔍 Production ML Infrastructure
 **Tech:** Kubernetes, Prometheus, Grafana, MLflow, GitHub Actions  
 Designed containerized deployment pipeline achieving 15 deployments/day. Set up comprehensive monitoring for model accuracy, latency, throughput, and dataset drift.
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smshiblyrahman&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="smshiblyrahman" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=smshiblyrahman&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="smshiblyrahman" width="50%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smshiblyrahman&theme=tokyonight&hide_border=true" alt="smshiblyrahman" width="70%" />
-</div>
 
 ## 🌐 Connect with Me
 
