@@ -1,105 +1,102 @@
-<h1 align="center">Hi 👋, I'm S M Shibly Rahman</h1>
-<h3 align="center">AI/ML Engineer | Building Production ML Systems & LLM-Powered Solutions</h3>
+<div align="center">
 
-## 🚀 About Me
+# S M Shibly Rahman
 
-AI/ML Engineer with 5+ years building production systems and 3+ years deploying ML models at scale. I specialize in building end-to-end ML pipelines, LLM integrations, and scalable inference systems that serve millions of predictions daily.
+### Senior Node.js Engineer · NestJS · TypeScript · AI/LLM
 
-- 🔭 Currently working as **Senior AI/ML Engineer at Wraith Dawn Technologies Limited** - Building production ML models for fintech platform serving 220K+ users
-- 🌱 Currently learning **Advanced MLOps, LLM Fine-tuning, Real-time ML Systems, and Vector Databases**
-- 👯 Looking to collaborate on **ML Infrastructure Projects, LLM Applications, and Production ML Systems**
-- 🤝 Open to contributing to **Open-source ML tools, MLOps frameworks, and AI-powered applications**
-- 💬 Ask me about **TensorFlow, PyTorch, LLM Integration (OpenAI, Claude), MLOps, Docker/Kubernetes, and Production ML**
-- 📫 Reach me at **smshiblyr@gmail.com**
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1wA0E9ZXlnUHAMnxttzTpEeESp8TSxlUS/view)
-- 👨‍💻 Portfolio: [https://smshiblyrahman.vercel.app/](https://smshiblyrahman.vercel.app/)
-- ⚡ Fun fact: **I've built ML systems processing 50K+ events per second, but still get excited debugging a tricky model convergence issue at 2 AM!**
+[![Portfolio](https://img.shields.io/badge/Portfolio-smshiblyrahman.vercel.app-black?style=for-the-badge&logo=vercel)](https://smshiblyrahman.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-smshiblyrahman-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/smshiblyrahman)
+[![Email](https://img.shields.io/badge/Email-smshiblyr@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:smshiblyr@gmail.com)
 
-## 💼 Professional Highlights
-
-- 🎯 Built RESTful inference APIs handling **5M+ daily predictions** with sub-50ms latency
-- 🚀 Deployed containerized ML models with **99.92% uptime** using Docker/Kubernetes
-- 🤖 Integrated LLMs (GPT-4, Claude) and built **RAG systems** with vector embeddings
-- 📊 Implemented real-time processing systems handling **50K+ events/sec** using Kafka
-- 🔧 Established MLOps workflows with experiment tracking, model versioning, and automated retraining
-- 📈 Set up comprehensive monitoring with Prometheus/Grafana tracking accuracy, latency, and drift
-
-## 🛠️ Technical Stack
-
-### AI/ML & Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-### LLMs & NLP
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude%20API-8B5CF6?style=for-the-badge)
-
-### Cloud & MLOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### Programming & Development
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Web Development
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Databases & Streaming
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-
-### Tools & Deployment
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-## 🏆 Key Projects
-
-### 🤖 Real-Time ML Prediction System
-**Tech:** Python, TensorFlow, Docker, Kafka, AWS, REST APIs  
-Built end-to-end ML pipeline processing 50K+ events/sec with 99.92% uptime. Implemented MLOps workflows with experiment tracking, model versioning, and automated drift monitoring.
-
-### 📚 LLM Document Analysis System
-**Tech:** OpenAI GPT-4, Claude API, LangChain, Vector Databases, RAG  
-Developed RAG system with vector embeddings for semantic document retrieval. Built REST endpoints for LLM inference with advanced prompt engineering techniques.
-
-### 🔍 Production ML Infrastructure
-**Tech:** Kubernetes, Prometheus, Grafana, MLflow, GitHub Actions  
-Designed containerized deployment pipeline achieving 15 deployments/day. Set up comprehensive monitoring for model accuracy, latency, throughput, and dataset drift.
-
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://twitter.com/smshiblyrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smshiblyrahman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/smshiblyrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smshiblyrahman" height="30" width="40" /></a>
-<a href="https://kaggle.com/smshiblyrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="smshiblyrahman" height="30" width="40" /></a>
-<a href="https://fb.com/smshiblyrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="smshiblyrahman" height="30" width="40" /></a>
-<a href="https://instagram.com/smshiblyrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smshiblyrahman" height="30" width="40" /></a>
-</p>
-
-## 📝 Open Source Contributions
-
-- 🌟 **150+ contributions** to ML/AI repositories
-- 📦 Maintained **3 packages** with 500+ stars focusing on ML utilities
-- ✍️ Published **12 technical articles** on ML system design and MLOps (5,000+ views)
-- 💬 **1,200+ Stack Overflow reputation** helping developers with Python, ML frameworks, and deployment
+</div>
 
 ---
 
-<p align="center">💡 Open to collaborating on production ML systems and AI-powered applications!</p>
+## 🚀 About
+
+5+ years shipping **enterprise SaaS** — microservices, distributed systems, multi-tenant architecture, production **AI/LLM** integration.
+
+- 🏢 **Senior Node.js Developer** @ Wilbur Limited — 220K+ daily users
+- ⚡ Cut PostgreSQL latency **92%** (2.3s → 180ms) across 50M+ records
+- 💳 Engineered $2M+/month payment infra at **99.7% reliability**
+- 🤖 Production Anthropic API, RAG pipelines, pgvector, SSE streaming
+- 🛠 Daily: **Cursor + Claude + Windsurf + GitHub Copilot** (AI-DLC)
+
+---
+
+## 🧰 Tech Stack
+
+**Backend**
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI / LLM**
+![Anthropic](https://img.shields.io/badge/Anthropic_API-191919?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+**Messaging & Infra**
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smshiblyrahman&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smshiblyrahman&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smshiblyrahman&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+## 🔭 Open Source Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| [**NestForge**](https://github.com/smshiblyrahman/NestForge) | NestJS · Anthropic API · Zod · ts-morph | Plain-English spec → full NestJS module via Claude structured output; AST-validated |
+| [**SFA Platform**](https://github.com/smshiblyrahman/sfa-platform) | NestJS microservices · RabbitMQ · PostGIS/pgvector · LangChain | 8-service sales automation platform with LLM coaching via pgvector cosine retrieval |
+| [**PR Sentinel**](https://github.com/smshiblyrahman/pr-sentinel) | NestJS · Anthropic API · SonarQube · GitHub API | GitHub PR webhook → SonarQube + Claude in parallel → ranked inline review comments |
+| [**nestjs-production-rag**](https://github.com/smshiblyrahman/nestjs-production-rag) | NestJS · pgvector · tiktoken · LangChain MMR | SSE streaming RAG; tiktoken budget engine; MMR reranker; stream cancel on disconnect |
+| [**FireRock**](https://github.com/smshiblyrahman/FireRock) | NestJS · RabbitMQ · Anthropic API · WebSocket · Twilio | Distributed incident response — Claude generates blameless RCA within 30s on resolve |
+| [**Titan Gateway**](https://github.com/smshiblyrahman/Titan-Gateway) | NestJS · Redis sorted sets · Helm · Kubernetes | Enterprise multi-tenant API gateway — 3-tier sliding-window rate limiter, RBAC, HPA |
+
+---
+
+## 📈 Key Numbers
+
+```
+220K+   daily active users served
+ 50M+   PostgreSQL records optimised
+  92%   latency reduction (2.3s → 180ms)
+  $2M+  monthly payment volume processed
+500K+   RabbitMQ messages/day
+500+    tenants in multi-tenant platform
+99.9%   uptime SLA maintained
+```
+
+---
+
+<div align="center">
+<sub>📍 Dhaka, Bangladesh · Available immediately · Open to on-site Dhaka & remote</sub>
+</div>
